@@ -1,6 +1,6 @@
 public class PrintFloatVariable {
-
     public static void main(String... args) {
-        System.out.println("Holberton School");
+		float pi = 3.14159f;
+        System.out.format("Pi Value: %.3f%n", pi);
     }
 }
