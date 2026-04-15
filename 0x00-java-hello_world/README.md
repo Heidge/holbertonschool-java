@@ -1,7 +1,7 @@
 # Java – Creating Your First Program
 
 ## 📖 Learning Objectives
-Ce projet couvre les bases fondamentales de Java, essentielles pour comprendre l'environnement avant de réaliser des audits de sécurité.
+This project covers the fundamentals of Java, which are essential for understanding the environment before conducting security audits.
 
 ### 1. General Concepts
 * **What are the Java development platforms?** The main platforms are **Java SE** (Standard Edition) for core applications, **Jakarta EE** (Enterprise Edition) for large-scale web apps, and **Java ME** (Micro Edition) for mobile and embedded devices.
